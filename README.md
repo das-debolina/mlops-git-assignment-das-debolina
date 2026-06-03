@@ -17,3 +17,8 @@ cd mlops-git-assignment-das-debolina
 
 Name: Das Debolina
 Student ID: 136376167
+
+## Course Information
+
+Course Code: MAI201
+Date: June 3, 2026
