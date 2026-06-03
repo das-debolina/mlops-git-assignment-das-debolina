@@ -6,7 +6,7 @@ This repository demonstrates Git branching, collaboration workflows, and merge c
 ## Prerequisites
 - Git installed
 - GitHub account
-- Python 3.x
+- Python 3.13.9
 
 ## Setup Instructions
 ```bash
@@ -17,4 +17,7 @@ cd mlops-git-assignment-das-debolina
 ## Info
 
 Name: Das Debolina  
-Student ID: 136376167
+Student ID: YOUR_STUDENT_ID  
+
+Course Code: YOUR_COURSE_CODE  
+Date: June 3, 2026
