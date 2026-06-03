@@ -4,7 +4,6 @@ __pycache__/
 *.pyd
 .git
 .gitignore
-
 venv/
 .env
 .ipynb_checkpoints
