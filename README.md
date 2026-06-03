@@ -13,7 +13,8 @@ This repository demonstrates Git branching, collaboration workflows, and merge c
 git clone https://github.com/das-debolina/mlops-git-assignment-das-debolina.git
 cd mlops-git-assignment-das-debolina
 
-## Student Information
+
+## Info
 
 Name: Das Debolina  
 Student ID: 136376167
