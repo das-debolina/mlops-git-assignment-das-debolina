@@ -7,9 +7,8 @@ Created the Git repository created with correct naming convention with the READM
 1. GitHub Network Graph
    
 - Screenshot showing all branches and merges:
-  
-<img width="874" height="487" alt="Screenshot 2026-06-03 at 7 23 30 PM" src="https://github.com/user-attachments/assets/fc8f528e-e9a3-4d54-95b1-aba81c94b6a6" />
 
+<img width="1049" height="567" alt="Screenshot 2026-06-03 at 8 30 53 PM" src="https://github.com/user-attachments/assets/f9e23095-1724-4afa-882e-10024a4abb22" />
 
 <img width="468" height="257" alt="image" src="https://github.com/user-attachments/assets/71fde518-728a-4fdc-a7fa-125e0378bb7e" />
 
@@ -42,7 +41,7 @@ Output of git log --oneline --graph:
 <img width="672" height="395" alt="Screenshot 2026-06-03 at 7 38 52 PM" src="https://github.com/user-attachments/assets/4516ebf5-98fc-45b8-93d5-ad77e87a542d" />
 
  
-5. Reflection on Merge Conflicts
+4. Reflection on Merge Conflicts
 
 <img width="468" height="282" alt="image" src="https://github.com/user-attachments/assets/b088196c-e2b5-47f8-b434-3a1aa3d91761" />
 
